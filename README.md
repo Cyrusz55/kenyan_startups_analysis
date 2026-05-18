@@ -21,12 +21,12 @@ This Power BI project tracks and visualizes Kenya's dynamic startup ecosystem, a
 ## 📸 Dashboard Visualizations
 
 ### Main Dashboard - Day 4
-![Day 4 Dashboard](screenshots/day 4.png)
+![Day 4 Dashboard](screenshots/day 4.jpeg)
 
 *Comprehensive view of Kenya's startup ecosystem with key metrics and sector analysis*
 
 ### Detailed Analytics - Day 4 B
-![Day 4 B Dashboard](screenshots/day 4 b.png)
+![Day 4 B Dashboard](screenshots/day 4 b.jpeg)
 
 *Deep-dive analysis of funding flows, industry distribution, and startup concentration patterns*
 
